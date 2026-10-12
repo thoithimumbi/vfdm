@@ -1,4 +1,4 @@
-# Vibration Fault Diagnostics in Motors (VFDM) 
+# Vibration Fault Diagnostics in Motors (VFDM)  |  In Progress 
 
 **Background.** Electric motors drive critical equipment like pumps and fans, emitting distinct vibration signatures before mechanical failure. Unplanned breakdowns cause high operational costs and downtime. Existing monitoring relies on manual inspections that miss sudden faults or cloud systems burdened by high latency, bandwidth consumption, and network dependency. This project evaluates an offline Edge-AI solution on a low-cost STM32 microcontroller for real-time motor fault classification without cloud infrastructure.
 
